@@ -1,2 +1,4 @@
 TODO:
-	Use VTune to analysis this program.
+	1. Use VTune to analysis this program.
+	2. Write C code version and compare the speed.
+	3. After finished C code, use llvm.
